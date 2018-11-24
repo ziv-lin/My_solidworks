@@ -1,0 +1,37 @@
+*.vs 
+*.idea
+*.lnk
+*.pkl
+*.json
+*.zip
+*_bak.*
+*.swp
+
+# solidworks
+~*
+*.pdf
+*.png
+__pycache__
+
+# Self-define
+*_log/*
+*_log.txt
+*_graph*
+*temp.txt
+*.egg-info/
+*dist/
+
+#Dirs
+test_code/
+query_data/tf_net/
+temp_train/
+deep_drone/checkpoint
+deep_drone/log/
+deep_drone/rapid_traj*
+deep_drone/rnn_log/
+deep_drone/rnn_tf_log/
+deep_drone/tf_rnn_log_*
+deep_drone/*_log*
+deep_drone/tf_net_2/
+deep_drone/tf_rnn_net/
+deep_drone/tf_mlp_net/
