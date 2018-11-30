@@ -2,6 +2,7 @@ TX2 上壳
 1. 通风口加大点
 2. 蜂窝弄薄点
 3. 散热线的孔位
+4. reserve holes for antenna
 
 TX2 下壳
 1. 扎带孔位弄大一点
