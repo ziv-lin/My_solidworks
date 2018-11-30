@@ -11,6 +11,8 @@
 ~*
 *.pdf
 *.png
+*.stp
+
 __pycache__
 
 # Self-define
